@@ -1,0 +1,10 @@
+product,review,rating,sentiment,polarity,compound_score,created_at
+iphone,Excellent Mobile,5,Positive,1.0,0.5719,2026-06-29 18:12:18.364
+samsang,not good,2,Negative,-0.35,-0.3412,2026-06-29 18:13:19.266
+realme,little bit,1,Neutral,-0.19,0.0,2026-06-29 18:14:01.881
+lipstick,good product,4,Positive,0.7,0.4404,2026-06-29 18:15:10.669
+iphone,excellent mobile,5,Positive,1.0,0.5719,2026-06-29 18:38:29.566
+vivo,bad product,3,Negative,-0.7,-0.5423,2026-06-29 19:17:03.377
+iphonr,good product,5,Positive,0.7,0.4404,2026-06-29 19:45:14.898
+iphone,good product,5,Positive,0.7,0.4404,2026-06-30 19:00:46.996
+lipstick,nice product,4,Positive,0.6,0.4215,2026-06-30 19:40:35.389

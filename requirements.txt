@@ -1,0 +1,12 @@
+Flask==3.0.3
+Flask-Cors==6.0.0
+pymongo==4.8.0
+selenium==4.22.0
+beautifulsoup4==4.12.3
+webdriver-manager==4.0.2
+textblob==0.18.0
+vaderSentiment==3.3.2
+pandas==2.2.2
+numpy==2.0.1
+requests==2.32.3
+dnspython==2.6.1
